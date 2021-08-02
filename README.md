@@ -5,3 +5,4 @@ pengalaman belajar di dicoding academy
 belajar memahami git di github proges 45%
 * belajar perintah dasar git
 * memahami dan membuat repository di github
+* menambahkan file readme
