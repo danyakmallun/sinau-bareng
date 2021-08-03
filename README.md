@@ -49,3 +49,9 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 Belajar membuat branch baru
  * Belajar membuat branch baru di dalam main
  * dan mengubah isi file 
+
+**27 Juni 2021**  
+
+Belajar berkolaborasi dengan anggota tim
+ * Saya menambahkan baris baru di file readme
+ * dan juga memodifikasi isi file dari hello
