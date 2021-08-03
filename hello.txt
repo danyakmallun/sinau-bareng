@@ -1,3 +1,2 @@
 * hallo txt
 menambahkan file baru di branch development
-halo saya seorang kontributor!
